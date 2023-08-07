@@ -1,7 +1,7 @@
 # React Personal Portfolio Website
 
-![alt](ss.png)
 
+![alt](ss.png)
 
 
 
