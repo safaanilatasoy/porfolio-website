@@ -2,7 +2,7 @@
 
 ![ss](https://github.com/safaanilatasoy/porfolio-website/assets/61758061/6b0107bb-0375-44c1-92df-7b0b898231eb)
 
-
+Personal portfolio website with react.js
 
 
 
